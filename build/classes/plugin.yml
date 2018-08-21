@@ -1,0 +1,13 @@
+name: FastGamemodeChanger
+version: 1.0
+author: croyke
+Website: http://martycraft.net
+main: play.martycraft.net.main
+commands:
+  gm:
+    description: add argument to change gamemode
+permissions:
+  Fastgm.use:
+    description: Test permission
+    default: op
+  
